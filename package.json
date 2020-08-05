@@ -11,7 +11,7 @@
   "dependencies": {
     "bs58": "^4.0.1",
     "did-method-key": "^0.6.1",
-    "fastify": "^2.10.0",
+    "fastify": "^2.15.1",
     "http-signature-zcap-invoke": "^1.0.0",
     "http-signature-zcap-verify": "^1.0.0",
     "jsonld": "^1.8.1",
