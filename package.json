@@ -13,9 +13,9 @@
     "did-method-key": "^0.6.1",
     "fastify": "^2.10.0",
     "http-signature-zcap-invoke": "^1.0.0",
-    "http-signature-zcap-verify": "^1.0.0",
-    "jsonld": "^1.8.1",
-    "jsonld-signatures": "^4.4.0",
+    "http-signature-zcap-verify": "^9.0.1",
+    "jsonld": "^8.1.0",
+    "jsonld-signatures": "^11.0.0",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
